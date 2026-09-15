@@ -1,0 +1,18 @@
+{
+  "owner_number": "+91XXXXXXXXXX",
+  "timezone": "Asia/Kolkata",
+  "pune_alerts": {
+    "enabled": false,
+    "sources": [],
+    "urgent_call": false
+  },
+  "permissions": {
+    "read_email": false,
+    "read_sms": false,
+    "read_notification_previews": false,
+    "call_owner": false,
+    "call_other_people": false,
+    "send_email": false,
+    "send_messages": false
+  }
+}
